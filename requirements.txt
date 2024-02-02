@@ -4,3 +4,4 @@ xformers==0.0.22
 diffusers==0.21.4
 omegaconf==2.3.0
 pillow==9.5.0
+accelerate==0.22.0
